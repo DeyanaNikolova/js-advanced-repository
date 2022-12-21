@@ -1,5 +1,5 @@
 # Project description
-Test project
+Test project repository
 
 # js-advanced-repository
-Test - to be deleted¬
+Test - to be deleted
